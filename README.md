@@ -57,21 +57,31 @@
 
 ### 📈 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Vekariya&theme=gruvbox&row=2&column=3" alt="GitHub Trophy" />
-</p>
+<!-- GitHub Profile README Layout -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Vekariya&show_icons=true&theme=radical" alt="Jay's GitHub stats" />
-</p>
+<!-- Row 1: GitHub Trophies & Most Used Languages -->
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Vekariya&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vekariya&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vekariya&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jay-Vekariya&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-</p>
+</div>
+
+<br />
+
+<!-- Row 2: GitHub Stats & Contribution Streak -->
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Vekariya&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Vekariya&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
 
 ---
 
