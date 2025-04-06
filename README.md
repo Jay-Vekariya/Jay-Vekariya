@@ -57,19 +57,19 @@
 ### 🧩 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayvekariya03&theme=gruvbox&row=2&column=3" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jayvekariya&theme=gruvbox&row=2&column=3" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayvekariya03&show_icons=true&theme=radical" alt="Jay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayvekariya&show_icons=true&theme=radical" alt="Jay's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvekariya03&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvekariya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayvekariya03&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jayvekariya&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
