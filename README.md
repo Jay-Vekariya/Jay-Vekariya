@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jay M. Vekariya</h1>
-
 <p align="center">
   <b>Full-Stack Developer | MERN & Next.js | Python-Django | Crafting Scalable Web Solutions</b>
 </p>
 
 <p align="center">
-  🚀 Passionate about transforming ideas into real-world applications using modern web technologies.<br />
+  🚀 Passionate about transforming ideas into real-world applications using modern web technologies.<br/>
   🎯 Focused on building impactful, scalable, and user-friendly solutions across both frontend and backend.
 </p>
 
@@ -13,22 +12,24 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Engineering** student at Marwadi University, Rajkot  
-- 💼 Intern at **Zeronesys LLP** working on **Next.js + Django** projects  
-- 💡 Former intern at **Blue Soft Infotech** (Onsite) & **CodSoft** (Remote) — React.js, Tailwind CSS  
-- 🌱 Currently mastering: `TypeScript`, `Next.js`, `MongoDB`, `Redux Toolkit`, `Django`  
-- 📫 Reach me at **jayvekariya2003@gmail.com**  
+- 🎓 Final-year **B.Tech Computer Engineering** student at Marwadi University, Rajkot
+- 💼 Intern at **Zeronesys LLP**, working on **Next.js** and **Django** projects
+- 🔁 Former Intern at **Blue Soft Infotech** (Onsite) & **CodSoft** (Remote) – Built projects using **React.js** & **Tailwind CSS**
+- 🌱 Continuously learning and upskilling in:
+  `JavaScript`, `TypeScript`, `Tailwind CSS`, `Next.js`, `Redux Toolkit`, `Node.js`, `Express.js`, `MongoDB`, `Django`
+- 📌 Passionate about building **E-commerce platforms**, **management systems**, and **healthcare apps**
 
 ---
 
 ### 🏆 Achievements
 
-- ✅ Built & deployed a complete **E-commerce Website** (React.js + Node.js + MongoDB)  
-- ✅ Developed a full-stack **Healthcare Appointment System** with advanced features  
-- ✅ Designed and implemented **wallet**, **chat**, **prescription PDF**, and **dashboard UI**  
-- ✅ Created & maintained clean **UML diagrams** and followed **MVC backend structure**  
-- ✅ Consistently delivering professional UI with **Tailwind CSS** and responsive layouts  
-- ✅ Managed project flows, attendance logs, and final-year reports meeting industry standards  
+- ✅ Built and deployed a complete **E-commerce Website** using React.js, Node.js, MongoDB
+- ✅ Successfully completed internships with real-world project experience in both **onsite** and **remote** environments
+- ✅ Developed a full-stack **Healthcare Appointment System** with custom **prescription PDF generation**
+- ✅ Integrated features like **wallet interface**, **chat interface**, and **multi-role dashboards**
+- ✅ Created professional **UML diagrams** and followed **MVC architecture** for backend development
+- ✅ Contributed to multiple responsive, component-based UI projects using **Tailwind CSS**
+- ✅ Submitted academic attendance and project reports meeting college and industry standards
 
 ---
 
@@ -54,30 +55,30 @@
 
 ---
 
-### 🧩 GitHub Stats & Trophies
+### 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayvekariya&theme=gruvbox&row=2&column=3" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Vekariya&theme=gruvbox&row=2&column=3" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayvekariya&show_icons=true&theme=radical" alt="Jay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Vekariya&show_icons=true&theme=radical" alt="Jay's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvekariya&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vekariya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayvekariya&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jay-Vekariya&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: **jayvekariya2003@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jay-vekariya/)  
+- 📧 Email: **jayvekariya2003@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jay-vekariya/)
 - 💻 [Portfolio Website](#) <!-- Add your portfolio link here if you have -->
 
 ---
